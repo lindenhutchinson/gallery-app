@@ -9,6 +9,7 @@ https://youtu.be/d5x0JCZbAJs?t=2361
 - [X] Actually setup DB
 - [X] Attach DB to UI
 - [X] Add Auth
+- [ ] "taint" (server-only)
 - [ ] Add image upload
 - [ ] Error management
 - [ ] Routing/image page
