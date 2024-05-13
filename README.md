@@ -10,6 +10,7 @@ https://youtu.be/d5x0JCZbAJs?t=2361
 - [X] Attach DB to UI
 - [X] Add Auth
 - [ ] "taint" (server-only)
+- [ ] Use Next/Image component (magic?)
 - [ ] Add image upload
 - [ ] Error management
 - [ ] Routing/image page
