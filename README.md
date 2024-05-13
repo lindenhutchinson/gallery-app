@@ -1,6 +1,6 @@
 # Gallery App
 
-https://youtu.be/d5x0JCZbAJs?t=2361
+https://youtu.be/d5x0JCZbAJs?t=4171
 
 ## Todo
 
@@ -9,9 +9,9 @@ https://youtu.be/d5x0JCZbAJs?t=2361
 - [X] Actually setup DB
 - [X] Attach DB to UI
 - [X] Add Auth
+- [X] Add image upload
 - [ ] "taint" (server-only)
 - [ ] Use Next/Image component (magic?)
-- [ ] Add image upload
 - [ ] Error management
 - [ ] Routing/image page
 - [ ] Delete button
