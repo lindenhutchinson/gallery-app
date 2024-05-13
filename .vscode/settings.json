@@ -1,3 +1,10 @@
 {
-    "typescript.tsdk": "node_modules\\typescript\\lib"
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  // "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "Git Bash Coloured": {
+      "path": "C:\\Program Files\\ANSICON\\x64\\ansicon.exe",
+      "args": ["C:\\Program Files\\Git\\bin\\bash.exe", "--login", "-i"]
+    }
+  }
 }

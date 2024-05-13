@@ -1,11 +1,13 @@
 # Gallery App
 
+https://youtu.be/d5x0JCZbAJs?t=2361
+
 ## Todo
 
 - [X] Make it deploy
 - [X] Scaffold UI with mock data
-- [ ] Actually setup DB
-- [ ] Attach DB to UI
+- [X] Actually setup DB
+- [X] Attach DB to UI
 - [ ] Add Auth
 - [ ] Add image upload
 - [ ] Error management
