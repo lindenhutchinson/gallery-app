@@ -8,7 +8,7 @@ https://youtu.be/d5x0JCZbAJs?t=2361
 - [X] Scaffold UI with mock data
 - [X] Actually setup DB
 - [X] Attach DB to UI
-- [ ] Add Auth
+- [X] Add Auth
 - [ ] Add image upload
 - [ ] Error management
 - [ ] Routing/image page
